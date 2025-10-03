@@ -1,4 +1,4 @@
-# Using-tools-like-John-the-Ripper-for-password-cracking
+# EX :7-Using-tools-like-John-the-Ripper-for-password-cracking
 
 ```
 NAME : KAVINRAJ S
